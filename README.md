@@ -26,8 +26,7 @@ Python • Java • CSS • HTML • JavaScript • React • MySQL • TensorFl
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/tteej.l/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
-    <a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a>
+    <img src="https://raw.githubusercontent.com/teejx/icons/refs/heads/main/facebook.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
