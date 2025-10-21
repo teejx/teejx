@@ -1,44 +1,13 @@
-# 👋 Hi, I'm Teej!
+# 🙂 Hi, I'm Teej!
 
-🎓 **4th Year Computer Science Student** at **National University – Manila**  
-💻 Specializing in **Machine Learning**  
-🤖 Passionate about **AI, Deep Learning, and Data Science**
-
----
-
-### 🚀 About Me
-- 🌱 Currently learning **Reinforcement Learning** and **Computer Vision**  
-- 🧠 I love exploring how AI can solve real-world problems  
-- ⚡ Fun fact: I enjoy building intelligent systems that merge logic with creativity  
-
----
-
-### 📈 My Learning Progress
-
-<div align="left">
-
-**Machine Learning**
-<br>
-<progress value="90" max="100"></progress> 90%
-
-**Deep Learning**
-<br>
-<progress value="85" max="100"></progress> 85%
-
-**Reinforcement Learning**
-<br>
-<progress value="70" max="100"></progress> 70%
-
-**Computer Vision**
-<br>
-<progress value="80" max="100"></progress> 80%
-
-</div>
+**4th Year Computer Science Student** at **National University – Manila**  
+Specializing in **Machine Learning**  
+Focused on **AI, Deep Learning, and Front End Development**
 
 ---
 
 ### 🛠️ Tools & Languages
-Python • Java • C++ • MySQL • TensorFlow • PyTorch • Git • VS Code  
+Python • Java • CSS • HTML • JavaScript • React • MySQL • TensorFlow • PyTorch • Git • VS Code  
 
 ---
 
@@ -49,7 +18,7 @@ Python • Java • C++ • MySQL • TensorFlow • PyTorch • Git • VS Code
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-📧 **YOUR.EMAIL@nu.edu.ph**
+📧 **llenareztjc@gmail.com**
 
 ---
 
