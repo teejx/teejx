@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/00fe1f1f-5b7a-4f35-9897-155ea71d3fe9" /># 🙂 Hi, I'm Teej!
+# 🙂 Hi, I'm Teej!
 
 **4th Year Computer Science Student** at **National University – Manila**  
 Specializing in **Machine Learning**  
@@ -26,7 +26,7 @@ Python • Java • CSS • HTML • JavaScript • React • MySQL • TensorFl
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/tteej.l/" target="_blank">
-    <img src="https://raw.githubusercontent.com/teejx/icons/refs/heads/main/facebook.png" alt="Instagram" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/00fe1f1f-5b7a-4f35-9897-155ea71d3fe9" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
