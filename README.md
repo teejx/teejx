@@ -17,7 +17,12 @@ Python • Java • CSS • HTML • JavaScript • React • MySQL • TensorFl
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/tehrence-llenarez-02a403354/?originalSubdomain=ph" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
 📧 **llenareztjc@gmail.com**
 
 ---
