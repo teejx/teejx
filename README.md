@@ -20,19 +20,18 @@ Python • Java • CSS • HTML • JavaScript • React • MySQL • TensorFl
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/tehrence-llenarez-02a403354/?originalSubdomain=ph" target="_blank">
+<p align="left" style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/tehrence-llenarez-02a403354/?originalSubdomain=ph" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/teejx/icons/refs/heads/main/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/tteej.l" target="_blank">
+  <a href="https://www.instagram.com/tteej.l" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/00fe1f1f-5b7a-4f35-9897-155ea71d3fe9" alt="Instagram" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/teej.llenarez" target="_blank">
+  <a href="https://www.facebook.com/teej.llenarez" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/teejx/icons/refs/heads/main/facebook.png" alt="Facebook" width="40" height="40"/>
   </a>
 </p>
+
 
 📧 **llenareztjc@gmail.com**
 
