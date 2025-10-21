@@ -20,7 +20,7 @@ Python • Java • CSS • HTML • JavaScript • React • MySQL • TensorFl
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/tehrence-llenarez-02a403354/?originalSubdomain=ph" target="_blank">
     <img src="https://raw.githubusercontent.com/teejx/icons/refs/heads/main/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -42,5 +42,5 @@ Python • Java • CSS • HTML • JavaScript • React • MySQL • TensorFl
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlpZzdlaHhjdjBhMHR1djN2NXBubjN6M284NWhkM3c2am0ydWNpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" alt="Coding gif">
 </p>
