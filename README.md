@@ -1,4 +1,4 @@
-# 🙂 Hi, I'm Teej!
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/00fe1f1f-5b7a-4f35-9897-155ea71d3fe9" /># 🙂 Hi, I'm Teej!
 
 **4th Year Computer Science Student** at **National University – Manila**  
 Specializing in **Machine Learning**  
@@ -27,6 +27,7 @@ Python • Java • CSS • HTML • JavaScript • React • MySQL • TensorFl
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/tteej.l/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a>
   </a>
 </p>
 
