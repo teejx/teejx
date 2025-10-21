@@ -24,6 +24,10 @@ Python • Java • CSS • HTML • JavaScript • React • MySQL • TensorFl
   <a href="https://www.linkedin.com/in/tehrence-llenarez-02a403354/?originalSubdomain=ph" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/tteej.l/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  </a>
 </p>
 
 📧 **llenareztjc@gmail.com**
@@ -31,5 +35,5 @@ Python • Java • CSS • HTML • JavaScript • React • MySQL • TensorFl
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW40b3RlZ2I1d3YybHg4OHo4ajN1dnJybDN2YnczYWJ1Mngwa2V2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" alt="Coding gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
 </p>
