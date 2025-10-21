@@ -43,7 +43,7 @@ Python • Java • C++ • MySQL • TensorFlow • PyTorch • Git • VS Code
 ---
 
 ### 📊 GitHub Stats
-![Teej's GitHub stats](https://github-readme-stats.vercel.app/api?username=teejll&show_icons=true&theme=tokyonight)
+![Teej's GitHub stats](https://github-readme-stats.vercel.app/api?username=teejx&show_icons=true&theme=tokyonight)
 
 ---
 
