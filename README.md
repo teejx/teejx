@@ -12,7 +12,10 @@ Python • Java • CSS • HTML • JavaScript • React • MySQL • TensorFl
 ---
 
 ### 📊 GitHub Stats
-![Teej's GitHub stats](https://github-readme-stats.vercel.app/api?username=teejx&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=teejx&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teejx&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
