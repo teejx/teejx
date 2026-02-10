@@ -35,10 +35,10 @@ Areas of interest: Artificial Intelligence • Deep Learning • Data-Driven App
     <p align="center">
         <img src="https://streak-stats.demolab.com?user=teejx&theme=tokyonight" />
     </p>
-<h3 align="center">-------------------- CONTRIBUTION ACTIVITY --------------------</h3>
+<!-- <h3 align="center">-------------------- CONTRIBUTION ACTIVITY --------------------</h3>
     <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=teejx&theme=tokyo-night" />
-    </p>
+    </p> -->
 <h3 align="center">-------------------- PROFILE VISITORS --------------------</h3>
     <p align="center">
         <img src="https://komarev.com/ghpvc/?username=teejx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
