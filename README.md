@@ -20,8 +20,7 @@ MySQL • Git • VS Code • MongoDB • XAMPP
 
  # - GitHub Analytics -
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=teejx&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teejx&layout=compact&theme=tokyonight&cache_seconds=1800" />
+ <img src="https://streak-stats.demolab.com?user=teejx&theme=tokyonight" />
 </p>
 Contribution Activity
 <p align="center"> 
