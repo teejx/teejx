@@ -16,22 +16,14 @@ Currently working on AI detection, data analysis, and interactive web applicatio
 
 <h3 align="center">-------------------- TECH STACK --------------------</h3>
 
-<p align="center">
-
 <b>Languages</b><br>
 Python • Java • JavaScript • HTML • CSS
-
-<br><br>
-
+<br>
 <b>Frameworks & Libraries</b><br>
 React • TensorFlow • PyTorch • Tailwind
-
-<br><br>
-
+<br>
 <b>Database & Tools</b><br>
 MySQL • Git • VS Code • MongoDB • XAMPP
-
-</p>
 
 
 <h3 align="center">-------------------- GITHUB ANALYTICS --------------------</h3> 
