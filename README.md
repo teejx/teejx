@@ -5,7 +5,7 @@
 
 <b>ABOUT ME</b>
 
-Computer Science (4th Year) — National University Manila <br>
+Computer Science (4th Year) — National University - Manila <br>
 Specializing in Machine Learning and Intelligent Systems
 
 I focus on developing practical applications of artificial intelligence, combining machine learning,
