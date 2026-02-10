@@ -14,7 +14,7 @@ data analysis, and front-end development to build usable, real-world software.
 My work involves designing ML-driven solutions, experimenting with deep learning models,
 and integrating intelligent features into modern web applications.
 
-<b>Areas of interest:</b> Artificial Intelligence • Deep Learning • Data-Driven Applications • Front-End Systems
+<b>Areas of interest:</b> Artificial Intelligence • Deep Learning • Front-End Systems
 
 
 <h3 align="center">-------------------- TECH STACK --------------------</h3>
