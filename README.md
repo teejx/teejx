@@ -1,28 +1,28 @@
 # Hi, I'm Teej
 
-<h3 align="center">-------------------- ABOUT ME --------------------</h3>
+ABOUT ME
 
-<p align="center">
+
 Computer Science (4th Year) — National University Manila <br>
 Specializing in Machine Learning and Intelligent Systems
-</p>
 
-<p align="center">
+
+
 I focus on developing practical applications of artificial intelligence, combining machine learning,
 data analysis, and front-end development to build usable, real-world software.
-</p>
 
-<p align="center">
+
+
 My work involves designing ML-driven solutions, experimenting with deep learning models,
 and integrating intelligent features into modern web applications.
-</p>
 
-<p align="center">
+
+
 Areas of interest: Artificial Intelligence • Deep Learning • Data-Driven Applications • Front-End Systems
-</p>
 
 
-<h3 align="center">-------------------- TECH STACK --------------------</h3>
+
+TECH STACK
 
 <b>Languages</b><br>
 Python • Java • JavaScript • HTML • CSS
