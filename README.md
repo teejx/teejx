@@ -1,4 +1,8 @@
-# Hi, I'm Teej
+<h1>
+  Hi, I'm Teej
+  <img src="https://komarev.com/ghpvc/?username=teejx&label=Profile%20Views&color=0e75b6&style=for-the-badge" align="right" />
+</h1>
+
 
 ABOUT ME
 
@@ -39,10 +43,6 @@ Areas of interest: Artificial Intelligence • Deep Learning • Data-Driven App
     <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=teejx&theme=tokyo-night" />
     </p> -->
-<h3 align="center">-------------------- PROFILE VISITORS --------------------</h3>
-    <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=teejx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-    </p>
 <h3 align="center">-------------------- CONNECT WITH ME --------------------</h3>
     <p align="center"> <a href="https://www.linkedin.com/in/tehrence-llenarez" target="_blank">
         <img src="https://raw.githubusercontent.com/teejx/icons/refs/heads/main/linkedin.png" alt="LinkedIn" width="40" height="40"/>
