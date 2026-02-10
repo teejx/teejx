@@ -18,7 +18,7 @@ React • TensorFlow • PyTorch • Tailwind
 Database & Tools
 MySQL • Git • VS Code • MongoDB • XAMPP
 
-📈 GitHub Analytics
+ - GitHub Analytics -
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=teejx&show_icons=true&theme=tokyonight" /> <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teejx&layout=compact&theme=tokyonight" /> </p>
 Contribution Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=teejx&theme=tokyo-night" /> </p>
