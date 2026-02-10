@@ -6,7 +6,7 @@ Specialization: Machine Learning
 </p>
 
 <p align="center">
-Interests:
+<b>Interests:</b> <br>
 Artificial Intelligence • Deep Learning • Front-End Development
 </p>
 
