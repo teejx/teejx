@@ -1,46 +1,46 @@
-# 🙂 Hi, I'm Teej!
+👋 Hi, I'm Teej
 
-**4th Year Computer Science Student** at **National University – Manila**  
-Specializing in **Machine Learning**  
-Focused on **AI, Deep Learning, and Front End Development**
+Computer Science (4th Year) — National University Manila
+Specialization: Machine Learning
+Focus Areas: Artificial Intelligence • Deep Learning • Front-End Development
 
----
+I build intelligent systems and modern web interfaces — combining machine learning with user-focused design.
+Currently working on projects involving AI detection, data analysis, and interactive web applications.
 
-### 🛠️ Tools & Languages
-Python • Java • CSS • HTML • JavaScript • React • MySQL • TensorFlow • PyTorch • Git • VS Code  
+🚀 What I Do
 
----
+🧠 Develop ML models using real-world datasets
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=teejx&show_icons=true&theme=tokyonight" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teejx&layout=compact&theme=tokyonight" />
-</p>
+📊 Build data-driven applications and visualizations
 
----
+🌐 Create responsive, modern web interfaces
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/tehrence-llenarez-02a403354/?originalSubdomain=ph" target="_blank">
-    <img src="https://raw.githubusercontent.com/teejx/icons/refs/heads/main/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://www.instagram.com/tteej.l" target="_blank">
-    <img src="https://github.com/user-attachments/assets/00fe1f1f-5b7a-4f35-9897-155ea71d3fe9" alt="Instagram" width="40" height="40"/>
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://www.facebook.com/teej.llenarez" target="_blank">
-    <img src="https://raw.githubusercontent.com/teejx/icons/refs/heads/main/facebook.png" alt="Facebook" width="40" height="40"/>
-  </a>
-</p>
+⚙️ Integrate AI features into usable software products
 
+🛠 Tech Stack
 
+Languages
+Python • Java • JavaScript • HTML • CSS
 
+Frameworks & Libraries
+React • TensorFlow • PyTorch
 
-📧 **llenareztjc@gmail.com**
+Database & Tools
+MySQL • Git • VS Code
 
----
+📈 GitHub Analytics
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=teejx&show_icons=true&theme=tokyonight" /> <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teejx&layout=compact&theme=tokyonight" /> </p>
+📌 Current Interests
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlpZzdlaHhjdjBhMHR1djN2NXBubjN6M284NWhkM3c2am0ydWNpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" alt="Coding gif">
-</p>
+AI vs Human-Generated Image Detection
+
+Machine Learning Research & Experimentation
+
+Front-End + AI Integration
+
+Building Portfolio-Level Systems
+
+🌐 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/tehrence-llenarez-02a403354/?originalSubdomain=ph" target="_blank"> <img src="https://raw.githubusercontent.com/teejx/icons/refs/heads/main/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a> <span>&nbsp;</span> <a href="https://www.instagram.com/tteej.l" target="_blank"> <img src="https://github.com/user-attachments/assets/00fe1f1f-5b7a-4f35-9897-155ea71d3fe9" alt="Instagram" width="40" height="40"/> </a> <span>&nbsp;</span> <a href="https://www.facebook.com/teej.llenarez" target="_blank"> <img src="https://raw.githubusercontent.com/teejx/icons/refs/heads/main/facebook.png" alt="Facebook" width="40" height="40"/> </a> </p>
+
+📧 Email: llenareztjc@gmail.com
