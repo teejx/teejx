@@ -18,12 +18,19 @@ React • TensorFlow • PyTorch • Tailwind
 Database & Tools
 MySQL • Git • VS Code • MongoDB • XAMPP
 
- - GitHub Analytics -
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=teejx&show_icons=true&theme=tokyonight" /> <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teejx&layout=compact&theme=tokyonight" /> </p>
+ # - GitHub Analytics -
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=teejx&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teejx&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=teejx&theme=tokyo-night" /> </p>
+<p align="center"> 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=teejx&theme=tokyo-night" />
+</p>
 👀 Profile Visitors
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=teejx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/> </p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=teejx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
 
 
 🌐 Connect With Me
