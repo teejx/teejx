@@ -25,35 +25,9 @@ Areas of interest: Artificial Intelligence • Deep Learning • Data-Driven App
 <h3 align="center">-------------------- TECH STACK --------------------</h3>
 
 <p align="center">
-
-<b>Languages</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
-
-<br><br>
-
-<b>Frameworks & Libraries</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=react" height="45"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
-
-<br><br>
-
-<b>Database & Tools</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-<img src="https://skillicons.dev/icons?i=xampp" height="45"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tensorflow,pytorch,tailwind,mysql,git,vscode,mongodb,xampp" />
 </p>
+
 
 
 
