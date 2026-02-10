@@ -18,10 +18,14 @@ Currently working on AI detection, data analysis, and interactive web applicatio
 
 <b>Languages</b><br>
 Python • Java • JavaScript • HTML • CSS
+
 <br>
+
 <b>Frameworks & Libraries</b><br>
 React • TensorFlow • PyTorch • Tailwind
+
 <br>
+
 <b>Database & Tools</b><br>
 MySQL • Git • VS Code • MongoDB • XAMPP
 
