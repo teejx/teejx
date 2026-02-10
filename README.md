@@ -1,22 +1,38 @@
 # Hi, I'm Teej
 
-Computer Science (4th Year) — National University Manila
+<p align="center">
+Computer Science (4th Year) — National University Manila <br>
 Specialization: Machine Learning
-Focus Areas: Artificial Intelligence • Deep Learning • Front-End Development
+</p>
 
-I build intelligent systems and modern web interfaces.
-Currently working on projects involving AI detection, data analysis, and interactive web applications.
+<p align="center">
+Artificial Intelligence • Deep Learning • Front-End Development
+</p>
+
+<p align="center">
+I build intelligent systems and modern web interfaces.<br>
+Currently working on AI detection, data analysis, and interactive web applications.
+</p>
 
 <h3 align="center">-------------------- TECH STACK --------------------</h3>
 
-Languages
+<p align="center">
+
+<b>Languages</b><br>
 Python • Java • JavaScript • HTML • CSS
 
-Frameworks & Libraries
+<br><br>
+
+<b>Frameworks & Libraries</b><br>
 React • TensorFlow • PyTorch • Tailwind
 
-Database & Tools
+<br><br>
+
+<b>Database & Tools</b><br>
 MySQL • Git • VS Code • MongoDB • XAMPP
+
+</p>
+
 
 <h3 align="center">-------------------- GITHUB ANALYTICS --------------------</h3> 
     <p align="center">
