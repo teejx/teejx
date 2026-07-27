@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1423"/>
+      <stop offset="100%" stop-color="#251733"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    /* Cat walks across the scene */
+    .cat-walk { animation: walk 14s linear infinite; }
+    @keyframes walk {
+      0%   { transform: translateX(880px); }
+      100% { transform: translateX(-120px); }
+    }
+
+    /* Subtle walking bob */
+    .cat-bob { animation: bob 0.5s ease-in-out infinite; }
+    @keyframes bob {
+      0%, 100% { transform: translateY(0); }
+      50%      { transform: translateY(-2px); }
+    }
+
+    /* Tail swish */
+    .tail { transform-origin: 0 0; animation: swish 1.2s ease-in-out infinite; }
+    @keyframes swish {
+      0%, 100% { transform: rotate(-8deg); }
+      50%      { transform: rotate(12deg); }
+    }
+
+    /* Leg walk cycle — opposite pairs */
+    .leg-a { transform-origin: 0 0; animation: stepa 0.5s ease-in-out infinite; }
+    .leg-b { transform-origin: 0 0; animation: stepb 0.5s ease-in-out infinite; }
+    @keyframes stepa {
+      0%, 100% { transform: rotate(-15deg); }
+      50%      { transform: rotate(15deg); }
+    }
+    @keyframes stepb {
+      0%, 100% { transform: rotate(15deg); }
+      50%      { transform: rotate(-15deg); }
+    }
+
+    /* Twinkling stars */
+    .star { animation: twinkle 3s ease-in-out infinite; }
+    .s1{animation-delay:0s}    .s2{animation-delay:.4s}   .s3{animation-delay:.8s}
+    .s4{animation-delay:1.2s}  .s5{animation-delay:1.7s}  .s6{animation-delay:2.1s}
+    .s7{animation-delay:2.5s}  .s8{animation-delay:.6s}   .s9{animation-delay:1.4s}
+    .s10{animation-delay:1.9s} .s11{animation-delay:.3s}  .s12{animation-delay:2.3s}
+    .s13{animation-delay:1s}   .s14{animation-delay:1.6s} .s15{animation-delay:.2s}
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.15; }
+      50%      { opacity: 1; }
+    }
+
+    /* Paw prints appear as the cat passes */
+    .p1{animation:pa1 14s linear infinite}
+    .p2{animation:pa2 14s linear infinite}
+    .p3{animation:pa3 14s linear infinite}
+    .p4{animation:pa4 14s linear infinite}
+    .p5{animation:pa5 14s linear infinite}
+    .p6{animation:pa6 14s linear infinite}
+    .p7{animation:pa7 14s linear infinite}
+    @keyframes pa1{0%,19%{opacity:0}21%{opacity:.18}88%{opacity:.06}100%{opacity:0}}
+    @keyframes pa2{0%,27%{opacity:0}29%{opacity:.18}88%{opacity:.06}100%{opacity:0}}
+    @keyframes pa3{0%,35%{opacity:0}37%{opacity:.18}88%{opacity:.06}100%{opacity:0}}
+    @keyframes pa4{0%,43%{opacity:0}45%{opacity:.18}88%{opacity:.06}100%{opacity:0}}
+    @keyframes pa5{0%,51%{opacity:0}53%{opacity:.18}88%{opacity:.06}100%{opacity:0}}
+    @keyframes pa6{0%,59%{opacity:0}61%{opacity:.18}88%{opacity:.06}100%{opacity:0}}
+    @keyframes pa7{0%,67%{opacity:0}69%{opacity:.18}88%{opacity:.06}100%{opacity:0}}
+  </style>
+
+  <!-- ====== BACKGROUND ====== -->
+  <rect width="800" height="200" rx="8" fill="url(#sky)"/>
+
+  <!-- Ground line -->
+  <line x1="20" y1="170" x2="780" y2="170" stroke="#3d2b56" stroke-width="0.5" opacity="0.35"/>
+
+  <!-- ====== STARS ====== -->
+  <circle class="star s1"  cx="50"  cy="22" r="1.5" fill="#e9c46a"/>
+  <circle class="star s2"  cx="130" cy="50" r="1"   fill="#e9c46a"/>
+  <circle class="star s3"  cx="200" cy="14" r="1.2" fill="#e9c46a"/>
+  <circle class="star s4"  cx="285" cy="40" r="1"   fill="#e9c46a"/>
+  <circle class="star s5"  cx="355" cy="10" r="1.5" fill="#e9c46a"/>
+  <circle class="star s6"  cx="425" cy="52" r="1"   fill="#e9c46a"/>
+  <circle class="star s7"  cx="500" cy="20" r="1.3" fill="#e9c46a"/>
+  <circle class="star s8"  cx="565" cy="45" r="1"   fill="#e9c46a"/>
+  <circle class="star s9"  cx="640" cy="58" r="1.2" fill="#e9c46a"/>
+  <circle class="star s10" cx="100" cy="62" r="0.8" fill="#e9c46a"/>
+  <circle class="star s11" cx="170" cy="72" r="0.7" fill="#e9c46a"/>
+  <circle class="star s12" cx="470" cy="6"  r="1"   fill="#e9c46a"/>
+  <circle class="star s13" cx="320" cy="65" r="0.9" fill="#e9c46a"/>
+  <circle class="star s14" cx="580" cy="15" r="1.1" fill="#e9c46a"/>
+  <circle class="star s15" cx="700" cy="65" r="0.8" fill="#e9c46a"/>
+
+  <!-- ====== MOON (crescent) ====== -->
+  <circle cx="710" cy="32" r="16" fill="#e9c46a" opacity="0.85"/>
+  <circle cx="718" cy="26" r="14" fill="#251733"/>
+
+  <!-- ====== PAW PRINTS ====== -->
+  <g class="p1" transform="translate(680,167) scale(0.22) rotate(-12)">
+    <ellipse cx="0" cy="5" rx="8" ry="10" fill="#f4a261"/>
+    <circle cx="-6" cy="-6" r="3.5" fill="#f4a261"/>
+    <circle cx="0" cy="-9" r="3.5" fill="#f4a261"/>
+    <circle cx="6" cy="-6" r="3.5" fill="#f4a261"/>
+  </g>
+  <g class="p2" transform="translate(590,164) scale(0.22) rotate(10)">
+    <ellipse cx="0" cy="5" rx="8" ry="10" fill="#f4a261"/>
+    <circle cx="-6" cy="-6" r="3.5" fill="#f4a261"/>
+    <circle cx="0" cy="-9" r="3.5" fill="#f4a261"/>
+    <circle cx="6" cy="-6" r="3.5" fill="#f4a261"/>
+  </g>
+  <g class="p3" transform="translate(500,167) scale(0.22) rotate(-8)">
+    <ellipse cx="0" cy="5" rx="8" ry="10" fill="#f4a261"/>
+    <circle cx="-6" cy="-6" r="3.5" fill="#f4a261"/>
+    <circle cx="0" cy="-9" r="3.5" fill="#f4a261"/>
+    <circle cx="6" cy="-6" r="3.5" fill="#f4a261"/>
+  </g>
+  <g class="p4" transform="translate(410,164) scale(0.22) rotate(9)">
+    <ellipse cx="0" cy="5" rx="8" ry="10" fill="#f4a261"/>
+    <circle cx="-6" cy="-6" r="3.5" fill="#f4a261"/>
+    <circle cx="0" cy="-9" r="3.5" fill="#f4a261"/>
+    <circle cx="6" cy="-6" r="3.5" fill="#f4a261"/>
+  </g>
+  <g class="p5" transform="translate(320,167) scale(0.22) rotate(-7)">
+    <ellipse cx="0" cy="5" rx="8" ry="10" fill="#f4a261"/>
+    <circle cx="-6" cy="-6" r="3.5" fill="#f4a261"/>
+    <circle cx="0" cy="-9" r="3.5" fill="#f4a261"/>
+    <circle cx="6" cy="-6" r="3.5" fill="#f4a261"/>
+  </g>
+  <g class="p6" transform="translate(230,164) scale(0.22) rotate(6)">
+    <ellipse cx="0" cy="5" rx="8" ry="10" fill="#f4a261"/>
+    <circle cx="-6" cy="-6" r="3.5" fill="#f4a261"/>
+    <circle cx="0" cy="-9" r="3.5" fill="#f4a261"/>
+    <circle cx="6" cy="-6" r="3.5" fill="#f4a261"/>
+  </g>
+  <g class="p7" transform="translate(140,167) scale(0.22) rotate(-10)">
+    <ellipse cx="0" cy="5" rx="8" ry="10" fill="#f4a261"/>
+    <circle cx="-6" cy="-6" r="3.5" fill="#f4a261"/>
+    <circle cx="0" cy="-9" r="3.5" fill="#f4a261"/>
+    <circle cx="6" cy="-6" r="3.5" fill="#f4a261"/>
+  </g>
+
+  <!-- ====== WALKING CAT ====== -->
+  <g class="cat-walk">
+    <g transform="translate(0,122)">
+      <g class="cat-bob">
+
+        <!-- Far legs (darker, behind body) -->
+        <g transform="translate(-18,32)"><g class="leg-a">
+          <rect x="-2.5" y="0" width="5" height="16" rx="2.5" fill="#d4903a"/>
+        </g></g>
+        <g transform="translate(16,32)"><g class="leg-b">
+          <rect x="-3" y="0" width="5.5" height="16" rx="2.5" fill="#d4903a"/>
+        </g></g>
+
+        <!-- Tail -->
+        <g transform="translate(28,10)"><g class="tail">
+          <path d="M 0,0 Q 22,-18 20,-30 Q 19,-36 14,-32" stroke="#f4a261" stroke-width="6" stroke-linecap="round" fill="none"/>
+        </g></g>
+
+        <!-- Body -->
+        <ellipse cx="0" cy="18" rx="30" ry="16" fill="#f4a261"/>
+
+        <!-- Near legs (lighter, in front of body) -->
+        <g transform="translate(-12,32)"><g class="leg-b">
+          <rect x="-2.5" y="0" width="5" height="16" rx="2.5" fill="#f4a261"/>
+        </g></g>
+        <g transform="translate(22,32)"><g class="leg-a">
+          <rect x="-3" y="0" width="5.5" height="16" rx="2.5" fill="#f4a261"/>
+        </g></g>
+
+        <!-- Head -->
+        <circle cx="-28" cy="5" r="16" fill="#f4a261"/>
+
+        <!-- Ears -->
+        <polygon points="-38,-4 -41,-22 -32,-8" fill="#f4a261"/>
+        <polygon points="-18,-4 -15,-22 -24,-8" fill="#f4a261"/>
+        <!-- Inner ear tint -->
+        <polygon points="-37,-3 -40,-18 -33,-7" fill="#e76f51" opacity="0.3"/>
+        <polygon points="-19,-3 -16,-18 -23,-7" fill="#e76f51" opacity="0.3"/>
+
+        <!-- Eye -->
+        <ellipse cx="-34" cy="2" rx="3" ry="3.5" fill="#1a1423"/>
+        <circle cx="-35.2" cy="0.8" r="1.2" fill="white" opacity="0.65"/>
+
+        <!-- Nose -->
+        <polygon points="-42,8 -44,11 -40,11" fill="#e76f51"/>
+
+        <!-- Mouth -->
+        <path d="M -42,11 Q -41,13.5 -40,11" stroke="#e76f51" stroke-width="0.6" fill="none"/>
+
+        <!-- Whiskers -->
+        <line x1="-44" y1="8"  x2="-62" y2="4"  stroke="#e9c46a" stroke-width="0.6" opacity="0.45"/>
+        <line x1="-44" y1="10" x2="-62" y2="10" stroke="#e9c46a" stroke-width="0.6" opacity="0.45"/>
+        <line x1="-44" y1="12" x2="-62" y2="16" stroke="#e9c46a" stroke-width="0.6" opacity="0.45"/>
+
+      </g>
+    </g>
+  </g>
+
+  <!-- Bottom text -->
+  <text x="400" y="190" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="11" opacity="0.45">~ crafted with curiosity ~</text>
+
+</svg>
