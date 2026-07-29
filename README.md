@@ -1,54 +1,113 @@
-<h1>
-  Hi, I'm Teej
-  <img src="https://komarev.com/ghpvc/?username=teejx&label=Profile%20Views&color=0e75b6&style=for-the-badge" align="right" />
-</h1>
+<div align="center">
 
-<b>ABOUT ME</b>
+<!-- HEADER -->
+<img src=".github/cat-header.svg" width="100%" />
 
-Computer Science (4th Year) — National University - Manila <br>
-Specializing in Machine Learning and Intelligent Systems
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=teejx&label=Profile%20Views&color=f4a261&style=flat-square" />
 
-I focus on developing practical applications of artificial intelligence, combining machine learning,
-data analysis, and front-end development to build usable, real-world software.
+<!-- TYPING SVG -->
+<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F4A261&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Curiosity+drives+my+code;Building+modern+web+applications;Always+landing+on+my+feet" alt="Typing SVG" />
+</a>
 
-My work involves designing ML-driven solutions, experimenting with deep learning models,
-and integrating intelligent features into modern web applications.
+</div>
 
-<b>Areas of interest:</b> Artificial Intelligence • Deep Learning • Front-End Systems
+<!-- ABOUT ME -->
 
+## About Me
 
-<h3 align="center">-------------------- TECH STACK --------------------</h3>
+```python
+class Teej:
+    def __init__(self):
+        self.name        = "Tehrence Llenarez"
+        self.university  = "National University - Manila"
+        self.program     = "BS Computer Science (4th Year)"
+        self.focus       = "Web Development"
+        self.cat_person  = True
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tensorflow,pytorch,tailwind,mysql,git,vscode,mongodb,xampp" />
-</p>
+    def interests(self):
+        return [
+            "Full Stack Development",
+            "UI/UX Design",
+            "Responsive Web Apps",
+            "Front-End Engineering"
+        ]
 
+    def philosophy(self):
+        # much like cats...
+        return {
+            "curiosity":    "Exploring every corner of the stack",
+            "independence": "Building full stack, end to end",
+            "precision":    "Crafting clean, pixel-perfect interfaces",
+            "persistence":  "Always landing on my feet",
+        }
+```
 
+```  
+   /\_/\  
+  ( o.o )  ~ meow                    
+   > ^ < 
+```
 
+---
 
-<h3 align="center">-------------------- GITHUB ANALYTICS --------------------</h3> 
-    <p align="center">
+<!-- TECH STACK -->
+
+## Tech Stack
+
+<div align="center">
+
+| Languages | Frontend | Backend | Data & Tools |
+|:---------:|:--------:|:-------:|:------------:|
+| <img src="https://skillicons.dev/icons?i=js,ts,python,java" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode" /> |
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+
+## GitHub Analytics
+
+<div align="center">
         <img src="https://streak-stats.demolab.com?user=teejx&theme=tokyonight" />
-    </p>
-<!-- <h3 align="center">-------------------- CONTRIBUTION ACTIVITY --------------------</h3>
-    <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=teejx&theme=tokyo-night" />
-    </p> -->
-<h3 align="center">-------------------- CONNECT WITH ME --------------------</h3>
-    <p align="center"> <a href="https://www.linkedin.com/in/tehrence-llenarez" target="_blank">
-        <img src="https://raw.githubusercontent.com/teejx/icons/refs/heads/main/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-    </a> <span>&nbsp;</span>
-        <a href="https://www.instagram.com/tteej.l" target="_blank">
-            <img src="https://github.com/user-attachments/assets/00fe1f1f-5b7a-4f35-9897-155ea71d3fe9" alt="Instagram" width="40" height="40"/>
-        </a> <span>&nbsp;</span>
-        <a href="https://www.facebook.com/teej.llenarez" target="_blank"> <img src="https://raw.githubusercontent.com/teejx/icons/refs/heads/main/facebook.png" alt="Facebook" width="40" height="40"/>
-        </a>
-    </p>
-<p align="center">
-    Email: llenareztjc@gmail.com
-</p>
+</div>
 
+<br/>
 
-<p align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlpZzdlaHhjdjBhMHR1djN2NXBubjN6M284NWhkM3c2am0ydWNpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" alt="Coding gif">
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teejx&hide_border=true&bg_color=1a1423&color=e9c46a&line=f4a261&point=ffffff&area=true&area_color=3d2b56" width="95%" />
+</div>
+
+<div align="center">
+  <p>Random Dev Quote</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato" alt="Random Dev Quote" />
+  
+</div>
+
+---
+
+<!-- CONNECT -->
+
+## Connect With Me :3
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tehrence-llenarez)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tteej.l)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/teej.llenarez)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llenareztjc@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat typing" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlpZzdlaHhjdjBhMHR1djN2NXBubjN6M284NWhkM3c2am0ydWNpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Coding gif" />
+</div>
+
+<!-- FOOTER -->
+<img src=".github//cat-footer.svg" width="100%" />
