@@ -44,19 +44,36 @@
   <!-- Sleeping cat on the wave -->
   <g transform="translate(480, 40)">
     <!-- tail curled around -->
-    <path d="M 0,0 C -20,5 -30,-5 -25,-15 C -20,-25 -5,-25 5,-15" fill="#f4a261" />
+    <path d="M 0,0 C -20,5 -30,-5 -25,-15 C -20,-25 -5,-25 5,-15" fill="#f4a261" stroke="#c27131" stroke-width="1.5" stroke-linecap="round" />
+    
     <!-- body -->
-    <ellipse cx="20" cy="-5" rx="25" ry="12" fill="#f4a261" />
-    <!-- head -->
-    <circle cx="45" cy="-5" r="11" fill="#f4a261" />
+    <ellipse cx="20" cy="-5" rx="25" ry="12" fill="#f4a261" stroke="#c27131" stroke-width="1.5" />
+    
     <!-- ears with flick -->
     <g class="ear-flick">
-      <polygon points="38,-13 42,-23 48,-15" fill="#f4a261" />
-      <polygon points="46,-13 52,-21 54,-11" fill="#f4a261" />
+      <!-- outer ears -->
+      <polygon points="38,-13 42,-23 48,-15" fill="#f4a261" stroke="#c27131" stroke-width="1.5" stroke-linejoin="round" />
+      <polygon points="46,-13 52,-21 54,-11" fill="#f4a261" stroke="#c27131" stroke-width="1.5" stroke-linejoin="round" />
+      <!-- inner ears -->
+      <polygon points="40,-14 42,-20 46,-15" fill="#e76f51" opacity="0.6"/>
+      <polygon points="48,-13 52,-18 52,-12" fill="#e76f51" opacity="0.6"/>
     </g>
-    <!-- sleeping eyes -->
-    <path d="M 40,-3 Q 43,-1 46,-3" stroke="#1a1423" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-    <path d="M 50,-3 Q 52,-1 54,-3" stroke="#1a1423" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+    <!-- head -->
+    <circle cx="45" cy="-5" r="11" fill="#f4a261" stroke="#c27131" stroke-width="1.5" />
+    
+    <!-- sleeping eyes (centered) -->
+    <path d="M 37,-3 Q 40.5,0 44,-3" stroke="#1a1423" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <path d="M 46,-3 Q 49.5,0 53,-3" stroke="#1a1423" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    
+    <!-- nose -->
+    <polygon points="44,2 46,2 45,4" fill="#e76f51" />
+    
+    <!-- whiskers -->
+    <line x1="36" y1="1" x2="28" y2="-1" stroke="#e9c46a" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="36" y1="3" x2="28" y2="4" stroke="#e9c46a" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="54" y1="1" x2="62" y2="-1" stroke="#e9c46a" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="54" y1="3" x2="62" y2="4" stroke="#e9c46a" stroke-width="1.2" stroke-linecap="round" />
     
     <!-- Zzz -->
     <g transform="translate(50, -25)">
