@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="teejx-static.svg" />
-  <img src="teejx-motion.gif" width="100%" alt="teejx — Software Developer in the Philippines and Builder" />
-</picture>
+<img src="teejx-animated.svg" width="100%" alt="teejx — Software Developer in the Philippines and Builder" />
 
 <!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=teejx&label=Profile%20Views&color=f4a261&style=flat-square" />
