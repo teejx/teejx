@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src=".github/cat-header.svg" width="100%" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="teejx-static.svg" />
+  <img src="teejx-motion.gif" width="100%" alt="teejx — Software Developer in the Philippines and Builder" />
+</picture>
 
 <!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=teejx&label=Profile%20Views&color=f4a261&style=flat-square" />
@@ -111,3 +114,4 @@ class Teej:
 
 <!-- FOOTER -->
 <img src=".github//cat-footer.svg" width="100%" />
+
