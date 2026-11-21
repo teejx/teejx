@@ -1,64 +1,115 @@
 <div align="center">
 
+<!-- HEADER -->
 <img src="teejx-animated.svg" width="100%" alt="teejx — Software Developer in the Philippines and Builder" />
 
-<br />
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=teejx&label=Profile%20Views&color=f4a261&style=flat-square" />
 
-<table border="0" cellpadding="14" cellspacing="0" bgcolor="#F0EEF6" width="100%">
-  <tr>
-    <td align="center">
-      <b>Hey, I’m Teej.</b><br />
-      <sub>Computer Science student at National University — Manila</sub><br />
-      <sub>I build thoughtful web experiences, from responsive interfaces to full-stack features.</sub>
-    </td>
-  </tr>
-</table>
+<!-- TYPING SVG -->
+<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F4A261&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Curiosity+drives+my+code;Building+modern+web+applications;Always+landing+on+my+feet" alt="Typing SVG" />
+</a>
 
 </div>
 
-## A little about me
+<!-- ABOUT ME -->
 
-I’m in my fourth year of BS Computer Science, focused on web development. I enjoy making interfaces feel clear and considered, then carrying that same care through the code behind them.
+## About Me
 
-<table border="0" cellpadding="12" cellspacing="8" width="100%">
-  <tr>
-    <td bgcolor="#F0EEF6" width="50%"><b>What I enjoy</b><br /><sub>Full-stack web development · UI/UX · Responsive apps</sub></td>
-    <td bgcolor="#F0EEF6" width="50%"><b>How I work</b><br /><sub>Curious by default · Detail-minded · Always learning</sub></td>
-  </tr>
-</table>
+```python
+class Teej:
+    def __init__(self):
+        self.name        = "Tehrence Llenarez"
+        self.university  = "National University - Manila"
+        self.program     = "BS Computer Science (4th Year)"
+        self.focus       = "Web Development"
+        self.cat_person  = True
 
-## My toolkit
+    def interests(self):
+        return [
+            "Full Stack Development",
+            "UI/UX Design",
+            "Responsive Web Apps",
+            "Front-End Engineering"
+        ]
 
-<table border="0" cellpadding="12" cellspacing="8" width="100%">
-  <tr>
-    <td bgcolor="#F0EEF6" align="center" width="50%"><b>Languages</b><br /><img src="https://skillicons.dev/icons?i=js,ts,python,java" height="38" alt="JavaScript, TypeScript, Python, Java" /></td>
-    <td bgcolor="#F0EEF6" align="center" width="50%"><b>Frontend</b><br /><img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="38" alt="HTML, CSS, React, Tailwind CSS" /></td>
-  </tr>
-  <tr>
-    <td bgcolor="#F0EEF6" align="center" width="50%"><b>Backend</b><br /><img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" height="38" alt="Node.js, Express, Next.js" /></td>
-    <td bgcolor="#F0EEF6" align="center" width="50%"><b>Data & tools</b><br /><img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode" height="38" alt="MySQL, MongoDB, Git, VS Code" /></td>
-  </tr>
-</table>
+    def philosophy(self):
+        # much like cats...
+        return {
+            "curiosity":    "Exploring every corner of the stack",
+            "independence": "Building full stack, end to end",
+            "precision":    "Crafting clean, pixel-perfect interfaces",
+            "persistence":  "Always landing on my feet",
+        }
+```
 
-## Around GitHub
+```  
+   /\_/\  
+  ( o.o )  ~ meow                    
+   > ^ < 
+```
+
+---
+
+<!-- TECH STACK -->
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=teejx&theme=transparent&hide_border=true&ring=d4c2f5&fire=b8bfff&currStreakLabel=78778f&sideLabels=78778f&dates=918a89&currStreakNum=454866&sideNums=454866" alt="GitHub contribution streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=teejx&hide_border=true&bg_color=ffffff00&color=5a5877&line=8b83ad&point=d49c8e&area=true&area_color=d4c2f5" width="100%" alt="Recent GitHub activity" />
+| Languages | Frontend | Backend | Data & Tools |
+|:---------:|:--------:|:-------:|:------------:|
+| <img src="https://skillicons.dev/icons?i=js,ts,python,java" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode" /> |
 
 </div>
 
-## Say hello
+---
+
+<!-- GITHUB STATS -->
+
+## GitHub Analytics
+
+<div align="center">
+        <img src="https://streak-stats.demolab.com?user=teejx&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teejx&hide_border=true&bg_color=1a1423&color=e9c46a&line=f4a261&point=ffffff&area=true&area_color=3d2b56" width="95%" />
+</div>
+
+<div align="center">
+  <p>Random Dev Quote</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato" alt="Random Dev Quote" />
+  
+</div>
+
+---
+
+<!-- CONNECT -->
+
+## Connect With Me :3
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A5877?style=for-the-badge&logo=linkedin&logoColor=F0EEF6)](https://www.linkedin.com/in/tehrence-llenarez)
-[![Instagram](https://img.shields.io/badge/Instagram-5A5877?style=for-the-badge&logo=instagram&logoColor=F0EEF6)](https://www.instagram.com/tteej.l)
-[![Facebook](https://img.shields.io/badge/Facebook-5A5877?style=for-the-badge&logo=facebook&logoColor=F0EEF6)](https://www.facebook.com/teej.llenarez)
-[![Email](https://img.shields.io/badge/Email-5A5877?style=for-the-badge&logo=gmail&logoColor=F0EEF6)](mailto:llenareztjc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tehrence-llenarez)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tteej.l)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/teej.llenarez)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llenareztjc@gmail.com)
 
 </div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat typing" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlpZzdlaHhjdjBhMHR1djN2NXBubjN6M284NWhkM3c2am0ydWNpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Coding gif" />
+</div>
+
+<!-- FOOTER -->
+<img src=".github//cat-footer.svg" width="100%" />
+
+
