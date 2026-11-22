@@ -21,10 +21,10 @@
 
 <br />
 
-<table><tr>
-<td width="50%" valign="top"><img src="assets/sections/tech-stack-card.svg" width="100%" alt="Tech stack: Languages, Frontend, Backend, Database, and Tools" /></td>
-<td width="50%" valign="top"><img src="https://streak-stats.demolab.com?user=teejx&amp;theme=transparent&amp;hide_border=true&amp;border_radius=28&amp;background=292E33&amp;ring=DDE0E2&amp;fire=BFC5CA&amp;currStreakLabel=F1F2F3&amp;sideLabels=BFC5CA&amp;dates=BFC5CA&amp;currStreakNum=F1F2F3&amp;sideNums=F1F2F3&amp;stroke=5C636A" width="100%" alt="GitHub streak statistics" /></td>
-</tr></table>
+<p align="center">
+  <img src="assets/sections/tech-stack-card.svg" width="48%" alt="Tech stack: Languages, Frontend, Backend, Database, and Tools" />&nbsp;
+  <img src="https://streak-stats.demolab.com?user=teejx&amp;theme=transparent&amp;hide_border=true&amp;border_radius=28&amp;background=292E33&amp;ring=DDE0E2&amp;fire=BFC5CA&amp;currStreakLabel=F1F2F3&amp;sideLabels=BFC5CA&amp;dates=BFC5CA&amp;currStreakNum=F1F2F3&amp;sideNums=F1F2F3&amp;stroke=5C636A" width="48%" alt="GitHub streak statistics" />
+</p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=teejx&amp;label=Profile+Views&amp;color=5C636A&amp;style=flat" alt="Profile views" /></p>
 
