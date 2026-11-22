@@ -1,0 +1,20 @@
+{
+  "name": "Your name",
+  "tagline": "Open-source developer",
+  "intro": "I make small, useful things with code, and enjoy learning as I build.",
+  "location": "",
+  "focus": [
+    "Open source",
+    "Creative coding",
+    "Learning in public"
+  ],
+  "skills": [
+    "Python",
+    "TypeScript",
+    "Nix",
+    "SVG"
+  ],
+  "projects": [],
+  "socials": [],
+  "active_palette": "monochrome"
+}
