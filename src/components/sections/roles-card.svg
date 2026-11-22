@@ -10,15 +10,15 @@
     @keyframes turn{to{transform:rotate(360deg)}}
     @media(prefers-reduced-motion:reduce){*{animation:none!important;transform:none!important;opacity:1!important}}
   </style>
-  <defs><filter id="soft-shadow" x="-8%" y="-18%" width="116%" height="145%"><feGaussianBlur in="SourceAlpha" stdDeviation="7" result="blur" /><feOffset in="blur" dx="0" dy="5" result="offset" /><feFlood flood-color="#090B14" flood-opacity=".42" result="color" class="shadow-color" /><feComposite in="color" in2="offset" operator="in" result="shadow" /><feMerge><feMergeNode in="shadow" /><feMergeNode in="SourceGraphic" /></feMerge></filter></defs>
+  <defs><filter id="soft-shadow" x="-8%" y="-18%" width="116%" height="145%"><feGaussianBlur in="SourceAlpha" stdDeviation="7" result="blur" /><feOffset in="blur" dx="0" dy="5" result="offset" /><feFlood flood-color="#090B14" flood-opacity=".42" result="color" class="shadow-color" /><feComposite in="color" in2="offset" operator="in" result="shadow" /><feMerge><feMergeNode in="shadow" /><feMergeNode in="SourceGraphic" /></feMerge></filter><filter id="chip-shadow" x="-12%" y="-18%" width="124%" height="148%"><feGaussianBlur in="SourceAlpha" stdDeviation="2" result="blur" /><feOffset in="blur" dx="0" dy="2" result="offset" /><feFlood flood-color="#161A1D" flood-opacity=".32" result="color" class="shadow-color" /><feComposite in="color" in2="offset" operator="in" result="shadow" /><feMerge><feMergeNode in="shadow" /><feMergeNode in="SourceGraphic" /></feMerge></filter></defs>
   <g class="panel">
     <rect x="6" y="5" width="1188" height="144" rx="28" fill="#454866" filter="url(#soft-shadow)" class="panel-bg-alt" />
     <g font-family="Concert One" font-size="24" text-anchor="middle" fill="#E4E4E4" class="button-label" transform="translate(56.5 0)">
-      <g class="chip c1"><rect x="58" y="52" width="345" height="54" rx="27" fill="#7378A6" class="button-bg" /><text x="230" y="87">Fullstack Web Developer</text></g>
+      <g class="chip c1" filter="url(#chip-shadow)"><rect x="58" y="52" width="345" height="54" rx="27" fill="#7378A6" class="button-bg" /><text x="230" y="87">Fullstack Web Developer</text></g>
       <text x="428" y="87" fill="#D4C2F5" class="separator">|</text>
-      <g class="chip c2"><rect x="456" y="52" width="270" height="54" rx="27" fill="#7378A6" class="button-bg" /><text x="591" y="87">Machine Learning</text></g>
+      <g class="chip c2" filter="url(#chip-shadow)"><rect x="456" y="52" width="270" height="54" rx="27" fill="#7378A6" class="button-bg" /><text x="591" y="87">Machine Learning</text></g>
       <text x="751" y="87" fill="#D4C2F5" class="separator">|</text>
-      <g class="chip c3"><rect x="779" y="52" width="250" height="54" rx="27" fill="#7378A6" class="button-bg" /><text x="904" y="87">AI Automations</text></g>
+      <g class="chip c3" filter="url(#chip-shadow)"><rect x="779" y="52" width="250" height="54" rx="27" fill="#7378A6" class="button-bg" /><text x="904" y="87">AI Automations</text></g>
     </g>
     </g>
 </svg>
